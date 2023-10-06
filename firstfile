@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main(){
+int a,b, c;
+cout <<"Enter any number:" ;
+cin>>a;
+if(a%2==0){
+cout <<"Number is an even number";
+}
+else{
+cout << "Number is an odd number":
+}
+return 0;
+}
